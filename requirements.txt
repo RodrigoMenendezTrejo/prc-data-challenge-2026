@@ -1,0 +1,20 @@
+# Entorno de la tubería de v30 (probado con Python 3.11 y 3.14; CatBoost con GPU NVIDIA para entrenar).
+# Instalar con: pip install -r requirements.txt   (matplotlib solo hace falta para scripts/figuras.py)
+catboost==1.2.10
+duckdb==1.5.6
+ipykernel==7.4.0
+jupyterlab==4.6.4
+lightgbm==4.7.0
+matplotlib==3.11.2
+minio==7.2.20
+nbclient==0.11.0
+nbconvert==7.17.1
+nbformat==5.11.1
+numpy==2.4.6
+pandas==3.0.6
+polars==2.0.0
+pyarrow==25.0.1
+requests==2.34.2
+scikit-learn==1.9.1
+scipy==1.17.1
+urllib3==2.8.0

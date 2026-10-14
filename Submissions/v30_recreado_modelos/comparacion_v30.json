@@ -1,0 +1,26 @@
+{
+ "enviado": {
+  "sha256": "0fe1cf30303b00135ba5a6f23c56e618f524a6eeea5aa0f7732fc3caf8d1bd6e",
+  "media_s": 1041.6
+ },
+ "con_modelos_guardados": {
+  "sha256": "0fe1cf30303b00135ba5a6f23c56e618f524a6eeea5aa0f7732fc3caf8d1bd6e",
+  "identico_al_enviado": true,
+  "predicciones_iguales_%": 100.0,
+  "dif_abs_mediana_s": 0.0,
+  "dif_abs_p99_s": 0.0,
+  "rmse_entre_ambos_s": 0.0,
+  "media_s": 1041.6,
+  "valido": true
+ },
+ "reentrenado": {
+  "sha256": "82a3ba1cac612a15e7f2c2d4220918ee1268e35d7b1dc9c980bed209ad126c45",
+  "identico_al_enviado": false,
+  "predicciones_iguales_%": 3.57,
+  "dif_abs_mediana_s": 8.0,
+  "dif_abs_p99_s": 90.0,
+  "rmse_entre_ambos_s": 24.63,
+  "media_s": 1041.51,
+  "valido": true
+ }
+}

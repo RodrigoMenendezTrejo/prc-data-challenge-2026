@@ -1,0 +1,6 @@
+agrupacion,eta2
+mes,0.001
+aeropuerto,0.1843
+aeropuerto x mes,0.1959
+aeropuerto x dia,0.2503
+aeropuerto x dia x hora,0.4076

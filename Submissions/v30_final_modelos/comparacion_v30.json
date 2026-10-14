@@ -1,0 +1,20 @@
+{
+ "periodo": "final",
+ "enviado": {
+  "sha256": "0fe1cf30303b00135ba5a6f23c56e618f524a6eeea5aa0f7732fc3caf8d1bd6e",
+  "media_s": 1041.6
+ },
+ "con_modelos_guardados": {
+  "sha256": "03faee3d822ee45b38f264f8186b47f8abc514c15c2025dceac77e29b1cdd6db",
+  "identico_al_enviado": false,
+  "filas": 670790,
+  "filas_comunes_con_v30": 344841,
+  "predicciones_iguales_%": 4.09,
+  "dif_media_s": -2.56,
+  "dif_abs_mediana_s": 7.0,
+  "dif_abs_p99_s": 66.0,
+  "rmse_entre_ambos_s": 18.97,
+  "media_s": 1014.0,
+  "valido": true
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "version": 29,
+ "objeto": "knowledgeable-alligator_v29.parquet",
+ "sha256": "0fe1cf30303b00135ba5a6f23c56e618f524a6eeea5aa0f7732fc3caf8d1bd6e",
+ "fichero_local": "Submissions\\v30\\knowledgeable-alligator_v30.parquet",
+ "nota": "v30 (bucket v29): V28 + enlace ADS-B relajado + distancias a puerta/stand + regresor lr 0,03. Envío normal (ene+jul 2026).",
+ "versiones_previas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  21,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28
+ ],
+ "preparado_utc": "2026-10-09T16:49:53.899345+00:00",
+ "subido_utc": "2026-10-09T16:49:54.276745+00:00",
+ "resultado": {
+  "status": "Succeeded",
+  "file": "knowledgeable-alligator_v29.parquet",
+  "bucket": "prc-2026-knowledgeable-alligator",
+  "used_pairs": 344841,
+  "inputs": {
+   "test_set_bucket": "prc-2026-testsets",
+   "test_set_file": "truthing.parquet"
+  },
+  "score": 247.8635
+ }
+}

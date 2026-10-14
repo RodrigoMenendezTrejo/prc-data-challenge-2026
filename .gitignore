@@ -1,0 +1,20 @@
+# Credenciales del bucket del reto: nunca se versionan
+credentials.json
+
+# Entorno y cachés
+.venv/
+prc-venv/
+__pycache__/
+*.pyc
+catboost_info/
+.ipynb_checkpoints/
+
+# Datos (se descargan o se generan con los cuadernos de Notebooks/)
+Data/
+
+# Modelos y predicciones (pesados); se conservan informe.json y registro_envio.json
+Submissions/**/*.cbm
+Submissions/**/*.parquet
+
+# Copias ejecutadas de los cuadernos
+Notebooks/ejecutados/

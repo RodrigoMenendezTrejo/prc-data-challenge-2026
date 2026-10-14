@@ -1,0 +1,13 @@
+{
+  "n_test": 344419,
+  "rmse_base_con_regla": 366.36282287565496,
+  "rmse_base_sin_regla_aptas": 235.47728267423574,
+  "score_oficial_v15": 302.2829,
+  "reduccion_mse_para_220_pct": 47.03143571040437,
+  "v20_n_regla": 181,
+  "v20_cambios_fuera_regla": 0,
+  "v20_desvio_formula_mae": 0.40838719566012593,
+  "v20_desvio_formula_max": 1.3062054933870968,
+  "v20_base_invertida_min": 324.71520687802115,
+  "v20_base_invertida_max": 4894.199389623601
+}

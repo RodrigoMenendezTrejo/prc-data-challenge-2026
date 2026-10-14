@@ -1,0 +1,50 @@
+{
+ "nombre": "v29",
+ "bloques": [
+  "fuentes",
+  "adsb",
+  "adsb_stand"
+ ],
+ "iteraciones": 28000,
+ "cola_nueva": true,
+ "it_clf": 3300,
+ "params_regresor": {
+  "iterations": 28000,
+  "depth": 10,
+  "learning_rate": 0.03,
+  "loss_function": "RMSE",
+  "l2_leaf_reg": 10,
+  "random_seed": 42,
+  "task_type": "GPU",
+  "devices": "0",
+  "gpu_ram_part": 0.8,
+  "max_ctr_complexity": 1,
+  "border_count": 128,
+  "allow_writing_files": false,
+  "verbose": 1000
+ },
+ "validacion": {
+  "valido": true,
+  "columnas": true,
+  "filas": true,
+  "ids_unicos": true,
+  "orden_plantilla": true,
+  "tipos": true,
+  "sin_nulos": true,
+  "finitas": true,
+  "suelo_60": true,
+  "sha256": "bdc529704c2d4d5fbb112a707e6e4339b3943d9c4ff5853b7d2e6c71bb5c5d02"
+ },
+ "comparacion_v27": {
+  "filas": 344841,
+  "predicciones_distintas": 341925,
+  "max_abs_diferencia": 5040.0,
+  "mismo_sha256": false,
+  "sha256_enviado": "45b865757804dc39b28d3616034e4905cf681f6f5feee0f65ab6c09298cdfee8"
+ },
+ "cambio_medio_vs_v27": 5.1204178157469675,
+ "cambio_sd_vs_v27": 122.67578902584614,
+ "pred_media": 1041.85650488196,
+ "segundos": 1071.9483289718628,
+ "sha256": "bdc529704c2d4d5fbb112a707e6e4339b3943d9c4ff5853b7d2e6c71bb5c5d02"
+}

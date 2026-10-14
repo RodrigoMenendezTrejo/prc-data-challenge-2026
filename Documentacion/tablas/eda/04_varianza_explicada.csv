@@ -1,0 +1,15 @@
+agrupacion,eta2,grupos
+combo x hora local,0.5157,125873
+"combo (apt, stand, pista)",0.4264,12031
+aeropuerto x dique x pista,0.362,832
+aeropuerto x stand,0.3292,2719
+aeropuerto x operador,0.2986,3132
+aeropuerto x pista,0.2433,70
+aeropuerto x hora local,0.2218,232
+pista,0.2185,53
+operador,0.197,677
+aeropuerto x mes,0.1959,120
+aeropuerto,0.1843,10
+tipo de avión,0.1206,262
+estela,0.0617,5
+segmento de mercado,0.0415,9
